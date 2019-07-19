@@ -1,0 +1,10 @@
+Proceso Promedio
+	Escribir "Escribe la primera calificacion";
+	Leer p1;
+	Escribir "Escribe la segunda calificacion";
+	Leer p2;
+	Escribir "Escribe la tercera calificacion";
+	Leer p3;
+	pro<-(p1+p2+p3)/3;
+	Escribir "El promedio es de:",pro;
+FinProceso
